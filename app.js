@@ -91,6 +91,7 @@ const RefreshCheck =(indice) =>{
     render();
 }
 
+
 //--------------------------[ADICIONANDO AS FUNÇÕES NOS ELEEMENTOS]----------------------------------
 
 document.getElementById("newItem").addEventListener("keypress", insertItem);
