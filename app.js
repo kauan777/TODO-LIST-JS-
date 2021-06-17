@@ -96,5 +96,3 @@ const RefreshCheck =(indice) =>{
 document.getElementById("newItem").addEventListener("keypress", insertItem);
 document.getElementById("all-l").addEventListener("click", clickItem);
 render();
-
-
